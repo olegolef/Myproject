@@ -1,0 +1,44 @@
+:root {
+  /* Цвета из Figma */
+  --color-primary: #2E87FF;
+  --color-primary-hover: #3D7CF6;
+  --color-primary-active: #3170E9;
+  --color-primary-light: #EAF3FF;
+  --color-primary-border: #2E87FF;
+  --color-secondary-bg: #FFFFFF;
+  --color-secondary-border: #2E87FF;
+  --color-secondary-hover: #EAF3FF;
+  --color-secondary-active: #C0DBFF;
+  --color-disabled-bg: #A5A5A5;
+  --color-disabled-border: #A5A5A5;
+  --color-disabled-text: #FFFFFF;
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #2E87FF;
+  --color-text-dark: #000D1E;
+  --color-text-grey: #5F6772;
+  --color-text-muted: #A5A5A5;
+  --color-shadow: 0px 4px 8px 0px rgba(46, 135, 255, 0.24);
+  --color-shadow-secondary: 0px 4px 8px 0px rgba(176, 190, 197, 0.24);
+  --color-shadow-hover: 0px 8px 24px 0px rgba(46, 135, 255, 0.28);
+  --color-shadow-active: 0px 2px 6px 0px rgba(46, 135, 255, 0.12);
+  --color-shadow-none: none;
+
+  /* Границы и скругления */
+  --radius-4: 4px;
+  --radius-8: 8px;
+  --radius-40: 40px;
+  --border-width: 1px;
+  --border-width-2: 2px;
+
+  /* Шрифты */
+  --font-main: 'Fira Sans', 'Montserrat', 'Inter', Arial, sans-serif;
+  --font-size-lg: 16px;
+  --font-size-md: 14px;
+  --font-size-sm: 11px;
+  --font-weight-bold: 600;
+  --font-weight-medium: 500;
+  --font-weight-regular: 400;
+  --letter-spacing-lg: 5.36%;
+  --letter-spacing-md: 2.27%;
+  --text-transform-upper: uppercase;
+} 
